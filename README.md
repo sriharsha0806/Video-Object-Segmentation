@@ -16,6 +16,7 @@ Initially the algorithms implements a majority voting based on segmentation mode
 A Proposed method is then applied on Baseline Model. Which gives Object Semgented Model better than the Models described Above.
 
 Reference:
+
 [1] Jae Lee Yong, Jaechul Kim, and Kristen Grauman,“Key-segments for video object segmentation,” in ICCV, 2011.
 
 [2] Anestis Papazoglou and V. Ferrari, “Fast object segmentation in unconstrained video,” in ICCV, 2013.
