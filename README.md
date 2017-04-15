@@ -11,7 +11,8 @@ Initially the algorithms implements a majority voting based on segmentation mode
 4. DagSeg
 5. JotSeg
 6. Saliency Seg
- and  a Baseline Model is created based on Majority Voting
+
+* A Baseline Model is created based on Majority Voting of following Models
 
 A Proposed method is then applied on Baseline Model. Which gives Object Semgented Model better than the Models described Above.
 The visualization of algorithm model can be understood from PA5_b.ipynb.
