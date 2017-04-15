@@ -14,6 +14,7 @@ Initially the algorithms implements a majority voting based on segmentation mode
  and  a Baseline Model is created based on Majority Voting
 
 A Proposed method is then applied on Baseline Model. Which gives Object Semgented Model better than the Models described Above.
+The visualization of algorithm model can be understood from PA5_b.ipynb.
 
 Reference:
 
